@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Fintech accounts related production APIs "
+  message: "Welcome to Fintech accounts related webhooks APIs "
   contactDetails:
     name: "Shivam Wadkar - Product Owner"
     email: "{cipher}9f47a2fc930cd8c384f565ee9699b305144622d5a4bb3577484bc0f045ef22bb5e9b2a03a77bcb0e45a7d1240a99a645"
