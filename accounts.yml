@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Fintech accounts related local APIs "
+  message: "Welcome to Fintech accounts related webhook APIs "
   contactDetails:
     name: "Shivam Wadkar - Developer"
     email: "shivamvwadkar@gmail.com"
